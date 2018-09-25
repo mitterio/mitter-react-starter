@@ -1,0 +1,21 @@
+.App {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    top: 0;
+}
+
+.application-title {
+    margin: 0;
+    padding: 15pt;
+    border-bottom: 1pt solid black;
+    color: white;
+    background-color: #741090;
+}
+
+.user-label {
+    font-size: 10pt;
+    float: right;
+    position: relative;
+    font-weight: normal;
+}
