@@ -4,7 +4,7 @@ Then run the application:
 
 ```
 git clone git@github.com:mitterio/mitter-react-starter.git
-cd mitter-getting-started-web-demo
+cd mitter-react-starter
 
 yarn install
 yarn start
