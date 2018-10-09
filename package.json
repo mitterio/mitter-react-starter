@@ -6,7 +6,7 @@
     "@material-ui/core": "^3.0.3",
     "@material-ui/icons": "^3.0.1",
     "@mitter-io/models": "^0.5.8",
-    "@mitter-io/web": "^0.5.8-4",
+    "@mitter-io/web": "^0.5.8-5",
     "axios": "^0.18.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
